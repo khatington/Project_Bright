@@ -27,7 +27,8 @@ This devices enables the user to: </br>
 </p>
 
 
-> Note: This is a very simple program and UI. The time is set to seconds instead of minutes to demonstrate its functionality quickly. <br/>
+> [!NOTE]
+> This is a very simple program and UI. The time is set to seconds instead of minutes to demonstrate its functionality quickly. <br/>
 
 ## References
  `Project related source codes` contains programs I have found helpful for this project.<br/>
