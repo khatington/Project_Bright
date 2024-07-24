@@ -7,6 +7,9 @@ My project is inspired by my idea for my `LC_project` where I've created a smart
 ### The project
 `Project Bright` is an imitation of a smart app where the home owner can control their smart lighting system and track the duration of lights in every room of their house through a simple smart device.<br/>
 
+- `Project_renew.pde`: the main file.
+- `Grid.pde`: the grid line design. 
+
 <p align="center">
  <img src="images/blueprint.png" width="400">
 </p>
