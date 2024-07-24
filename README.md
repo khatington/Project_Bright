@@ -1,5 +1,4 @@
 # Project Bright 💡
-
 CS171 Computer Systems 1 project <br/>
 Theme: Sustainability and Environment<br/> 
 
@@ -25,5 +24,8 @@ This devices enables the user to: </br>
 
 
 Note: This is a very simple program and UI, the time is set to seconds instead of minutes to demonstrate its functionality quickly. <br/>
+
+### References: 
+Provided in the reference file of source codes I have found relating to what I needed in this project. <br/>
 
 
