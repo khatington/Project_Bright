@@ -16,12 +16,11 @@ This devices enables the user to: </br>
 - be alerted if lights are on for too long. <br/>
 - know the duration of lights being on in each room of their house. <br/> 
 
-<p align="center">
+<p float="left">
+ <p align="center">
  <img src="images/lightson.png" width="400">
-</p>
-
-<p align="center">
  <img src="images/alert.png" width="400">
+ </p>
 </p>
 
 
