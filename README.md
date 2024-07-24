@@ -4,7 +4,7 @@ Theme: Sustainability and Environment.<br/>
 
 My project is inspired by my idea for my `LC_project` where I've created a smart home device for home users. <br/>
 
-### About
+### The project
 `Project Bright` is an imitation of a smart app where the home owner can control their smart lighting system and track the duration of lights in every room of their house through a simple smart device.<br/>
 
 <p align="center">
