@@ -1,5 +1,5 @@
 ## Project Bright 💡
-CS171 Computer Systems 1 project. <br/>
+CS171 Computer Systems 1 Project. <br/>
 Theme: Sustainability and Environment.<br/> 
 
 My project is inspired by my idea for my `LC_project` where I've created a smart home device for home users. <br/>
